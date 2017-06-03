@@ -1,0 +1,34 @@
+.hdr-logo {
+  float: left;
+  margin: 0 0 0 6rem;
+
+  a {
+    color: #aaa;
+    text-decoration: none;
+  }
+}
+
+.nav-main {
+  margin-right: 6rem;
+  float: right;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    width: 8em;
+    display: inline-block;
+    text-align: center;
+
+    a {
+      display: inline-block;
+      padding: 10px 0;
+      color: #aaa;
+      font-size: 1.2em;
+      text-decoration: none;
+    }
+  }
+}
